@@ -1,0 +1,50 @@
+.nav{
+    /*position fixed; */
+    background-color: aqua;
+    width:100%;
+}
+#imag1 {
+}
+#image2{
+
+}
+#image3{
+
+}
+#img4{
+    align-items: center;
+    position: absolute;
+    float:right;
+    width:200px;
+    top:20rem;
+    left:30rem;
+    bottom:15rem;
+    border-radius: 25px;
+}
+#img5{
+    float: right;
+    position: absolute;
+    z-index:1;
+    right:10rem;
+    /* top:8rem;*/
+    top: 100px;
+}
+#img6{
+    float: right;
+    position: absolute;
+    z-index:2;
+    right:10rem;
+    top: 22rem;
+    bottom: 14rem;
+   
+}
+#img7{
+    float: right;
+    position: absolute;
+    z-index:3;
+    right:10rem;
+    top:37rem;
+    bottom: 10rem;
+    left:57rem;
+
+}
